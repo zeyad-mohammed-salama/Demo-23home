@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/demo-23home -->
+<!-- Profile README for github.com/zeyad-mohammed-salama -->
 
 <div align="center">
 
@@ -7,15 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Engineering+robust+Python+%26+Django+backends;Building+modern+React+%26+Next.js+interfaces;Designing+clean+APIs+%26+scalable+systems;Shipping+reliable+full-stack+products)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://demo-23home.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://zeyad-mohammed-salama.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/demo-23home/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/zeyadslama23"><img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://medium.com/@demo23home"><img src="https://img.shields.io/badge/Medium-Read-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=demo-23home&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/demo-23home?label=Followers&style=flat-square&color=2563eb)
-![GitHub stars](https://img.shields.io/github/stars/demo-23home?affiliations=OWNER&style=flat-square&color=06b6d4)
+![Profile views](https://komarev.com/ghpvc/?username=zeyad-mohammed-salama&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/zeyad-mohammed-salama?label=Followers&style=flat-square&color=2563eb)
+![GitHub stars](https://img.shields.io/github/stars/zeyad-mohammed-salama?affiliations=OWNER&style=flat-square&color=06b6d4)
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-16A34A?style=flat-square)
 
 <br /><br />
